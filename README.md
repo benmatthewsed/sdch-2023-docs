@@ -8,9 +8,13 @@
 
 Please complete this registration *before* the Hackathon starts on July 25.
 
+Once this has been completed you can access the harmonized SCJS dataset used during the Hackathon via our [Data Access and Governance](https://github.com/benmatthewsed/sdch-2023-docs/blob/main/scdh_governance.md) page. This page also describes the restritions on the data usage that Hackathon participants must abide by.
+
 ## Online participation
 
 - You can find the link to the Teams meeting for the Hackathon here: [Ben add link/s here]
+
+
 
 ## Code of Conduct
 - By participating in this Hackathon you are agreeing to abide by our [Code of conduct](https://github.com/benmatthewsed/sdch-2023-docs/blob/main/code_of_conduct.md). Please take a minute to familiarise yourself with this.
