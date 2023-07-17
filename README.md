@@ -8,7 +8,7 @@
 
 ## Communicating
 - Given that we are a hybrid Hackathon, there is a Slack site where participants and organisers can message each other. Ben will send an invitation to join the Slack site using the email address you provided for the UKDS sign-up on Monday 23 June.
-- The Slack site will also contain links to cloud storage spaces for each team.
+- The Slack site can also be used to share files/code between team members.
 
 
 ## Schedule
