@@ -4,6 +4,9 @@
 
 - You can find the link to the Teams meeting for the Hackathon here: [Ben add link]
 
+## Code of Conduct
+- By participating in this Hackathon you are agreeing to abide by our [Code of conduct](https://github.com/benmatthewsed/sdch-2023-docs/blob/main/code_of_conduct.md). Please take a minute to familiarise yourself with the Code of conduct.
+
 ## Data Access
 
 1. Register for an account with the [UK Data Service](https://ukdataservice.ac.uk/)
