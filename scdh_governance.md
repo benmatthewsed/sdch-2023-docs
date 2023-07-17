@@ -5,8 +5,8 @@ Ben Matthews
 
 ## The combined datasets
 
-This Hackathon uses the sweeps of the [Scottish Crime and Justice Survey](https://www.gov.scot/collections/scottish-crime-and-justice-survey/)
-from the [UK Data Archive](https://beta.ukdataservice.ac.uk/datacatalogue/series/series?id=2000046).
+This Hackathon uses the sweeps of the [Scottish Crime and Justice Survey (SCJS)](https://www.gov.scot/collections/scottish-crime-and-justice-survey/)
+from the [UK Data Service (UKDS)](https://beta.ukdataservice.ac.uk/datacatalogue/series/series?id=2000046).
 
 We have provided a harmonized version of these datasets to help teams in
 their analyses. Stuart from Scottish Government has done an amazing job
@@ -19,7 +19,7 @@ SCJS available through UKDS, and a series of `R` scripts used to
 harmonize the datasets and combine them into a single analytical
 dataset. As part of this process we have removed some variables from the
 SCJS - if you are feeling intrepid you are welcome to spin up your own
-harmonized dataset from the individual sweeps, but we don’t recommend
+harmonized dataset from the individual sweeps and include any variables you like, but we don’t recommend
 this.
 
 You can access the harmonized versions of the datasets via this link:
@@ -32,16 +32,15 @@ to the UKDS project.
 
 ## Responsible usage of the SCJS
 
-Use of SJCS must be in line with the UKDS [End User License
+Use of SCJS must be in line with the UKDS [End User License
 Agreement](https://ukdataservice.ac.uk/app/uploads/cd137-enduserlicence.pdf).
-Please familiarise yourself with this now.
 
-Some key points for the Hackathon:
+Some key points to note for the Hackathon:
 
 - Please **do not** share either the original data from UKDS or the
-  harmonized datasets outwith the Hackathon. If you accidentally delete
+  harmonized datasets with anyone outwith the Hackathon. If you accidentally delete
   the data you’re working on, please download a new copy from the link
-  above or from UKDS.
+  above or from UKDS. 
 - All the results of our research must be non-commercial. So if you were
   thinking of monetizing your analysis somehow please do not!
 - It is not specifically included in the restrictions for using SCJS but
