@@ -6,7 +6,8 @@
 2. Confirm the email address you used for registration via [this Form](https://forms.office.com/e/i1cx5L5cKN)
 
 
-
+## Schedule
+You can find the [schedule for the Hackathon here](https://github.com/benmatthewsed/sdch-2023-docs/blob/main/scdh_schedule.md).
 
 
 ## Pre-Reading
