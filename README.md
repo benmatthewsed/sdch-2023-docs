@@ -1,13 +1,19 @@
 # Participant information for Scottish Crime Data Hackathon 2023
 
-## Participants
+## Data Access
 
 1. Register for an account with the [UK Data Service](https://ukdataservice.ac.uk/)
 2. Confirm the email address you used for registration via [this Form](https://forms.office.com/e/i1cx5L5cKN)
+3. Ben will then add you to the Scottish Crime Data Hackathon UKDS Project. If you have any problems signing up, please to email Ben (ben.matthews@stir.ac.uk).
+
+## Communicating
+- Given that we are a hybrid Hackathon, there is a Slack site where participants and organisers can message each other. Ben will send an invitation to join the Slack site using the email address you provided for the UKDS sign-up on Monday 23 June.
+- The Slack site will also contain links to cloud storage spaces for each team.
 
 
 ## Schedule
-You can find the [schedule for the Hackathon here](https://github.com/benmatthewsed/sdch-2023-docs/blob/main/scdh_schedule.md).
+- You can find the [schedule for the Hackathon here](https://github.com/benmatthewsed/sdch-2023-docs/blob/main/scdh_schedule.md).
+- 
 
 
 ## Pre-Reading
