@@ -17,7 +17,6 @@
 
 ## Schedule
 - You can find the [schedule for the Hackathon here](https://github.com/benmatthewsed/sdch-2023-docs/blob/main/scdh_schedule.md).
-- 
 
 
 ## Pre-Reading
