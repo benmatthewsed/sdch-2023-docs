@@ -5,8 +5,8 @@ Ben Matthews
 
 ## The combined datasets
 
-This Hackathon uses the sweeps of the Scottish Crime and Justice Survey
-from the UK Data Archive.
+This Hackathon uses the sweeps of the [Scottish Crime and Justice Survey](https://www.gov.scot/collections/scottish-crime-and-justice-survey/)
+from the [UK Data Archive](https://beta.ukdataservice.ac.uk/datacatalogue/series/series?id=2000046).
 
 We have provided a harmonized version of these datasets to help teams in
 their analyses. Stuart from Scottish Government has done an amazing job
