@@ -1,6 +1,6 @@
 # Participant information for Scottish Crime Data Hackathon 2023
 
-## Before the Hackathon: Data Access
+## Before the Hackathon: Registration
 
 1. Register for an account with the [UK Data Service](https://ukdataservice.ac.uk/)
 2. Confirm the email address you used for registration via [this Form](https://forms.office.com/e/i1cx5L5cKN). We will also use this email address to grant you access to the datasets used for the Hackathon and to the Slack site.
@@ -8,23 +8,26 @@
 
 Please complete this registration *before* the Hackathon starts on July 25.
 
-Once this has been completed you can access the harmonized SCJS dataset used during the Hackathon via our [Data Access and Governance](https://github.com/benmatthewsed/sdch-2023-docs/blob/main/scdh_governance.md) page. This page also describes the restritions on the data usage that Hackathon participants must abide by.
+## Schedule
+- You can find the [schedule for the Hackathon here](https://github.com/benmatthewsed/sdch-2023-docs/blob/main/scdh_schedule.md).
+
+## Data Access
+
+Registered participants will be able to access the harmonized SCJS dataset used during the Hackathon via our [Data Access and Governance](https://github.com/benmatthewsed/sdch-2023-docs/blob/main/scdh_governance.md) page from the morning of 25 July. This page also describes the restritions on the data usage that Hackathon participants must abide by.
+
 
 ## Online participation
 
 - You can find the link to the Teams meeting for the Hackathon here: [Ben add link/s here]
 
-
-
-## Code of Conduct
-- By participating in this Hackathon you are agreeing to abide by our [Code of conduct](https://github.com/benmatthewsed/sdch-2023-docs/blob/main/code_of_conduct.md). Please take a minute to familiarise yourself with this.
-
 ## Communicating
 - Given that we are a hybrid Hackathon, we have set up a Slack site where participants and organisers can message each other. Ben will send an invitation to join the Slack site using the email address you provided for the UKDS sign-up on Monday 23 June.
 - The Slack site can also be used to share files/code between team members.
 
-## Schedule
-- You can find the [schedule for the Hackathon here](https://github.com/benmatthewsed/sdch-2023-docs/blob/main/scdh_schedule.md).
+
+## Code of Conduct
+- By participating in this Hackathon you are agreeing to abide by our [Code of conduct](https://github.com/benmatthewsed/sdch-2023-docs/blob/main/code_of_conduct.md). Please take a minute to familiarise yourself with this.
+  
 
 ## Pre-Reading
 
