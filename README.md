@@ -1,5 +1,9 @@
 # Participant information for Scottish Crime Data Hackathon 2023
 
+## Online participation
+
+- You can find the link to the Teams meeting for the Hackathon here: [Ben add link]
+
 ## Data Access
 
 1. Register for an account with the [UK Data Service](https://ukdataservice.ac.uk/)
