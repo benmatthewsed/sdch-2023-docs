@@ -21,7 +21,7 @@ LLTC_2.14 - Teaching Studio, [Lister Learning and Teaching Centre](https://www.e
 - 14:30 – 3 min presentation of initial ideas to whole group
 - 14:45 – Project development
 - 15:45 – Projects agreed
-- 16:00 – Close
+- 16:00 – Depart
 
 - 18:00 - Dinner at [David Bann](https://www.davidbann.co.uk/)
  
@@ -38,7 +38,7 @@ LLTC_2.14 - Teaching Studio, [Lister Learning and Teaching Centre](https://www.e
 - 13:45 – ‘Reset’
 - 14:30 – Whole group check-in
 - 14:45 – Analysis
-- 16:00 – Close 
+- 16:00 – Depart 
 
 
 # Day Three: Writing Day
@@ -52,4 +52,4 @@ University of Stirling, Cottrell Building, Court Room (4C1 & 4C2) | online
 - 13:45 – ‘Reset’
 - 14:30 – Final writing sprint
 - 15:00 – Reading and feedback session with stakeholders
-- 16:00 – Close 
+- 16:00 – Depart
