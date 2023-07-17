@@ -1,14 +1,23 @@
 # Participant information for Scottish Crime Data Hackathon 2023
 
-## Partipants
+## Participants
 
 1. Register for an account with the [UK Data Service](https://ukdataservice.ac.uk/)
 2. Confirm the email address you used for registration via [this Form](https://forms.office.com/e/i1cx5L5cKN)
 
 
-## Pre-Reading
-A short list of topical policy documents relating to policing in Scotland:
 
+
+
+## Pre-Reading
+
+About the [Scottish Crime and Justice Survey](https://www.gov.scot/collections/scottish-crime-and-justice-survey/):
+- [Interactive Data Tool](https://scotland.shinyapps.io/sg-scottish-crime-justice-survey/)
+- [Scottish Crime and Justice Survey 2019/20: main findings](https://www.gov.scot/publications/scottish-crime-justice-survey-2019-20-main-findings/)
+- [Scottish Crime and Justice Survey 2019/20: Technical Report](https://www.gov.scot/binaries/content/documents/govscot/publications/statistics/2021/02/scottish-crime-and-justice-survey-2019-20-supplementary-documents/documents/scjs-2019-20---technical-report/scjs-2019-20---technical-report/govscot%3Adocument/2019_20%2BSCJS%2B-%2BTechnical%2BReport2.pdf)
+- [SCJS 2019/2020 QUESTIONNAIRE AND USER NOTES](https://www.gov.scot/binaries/content/documents/govscot/publications/statistics/2021/02/scottish-crime-and-justice-survey-2019-20-supplementary-documents/documents/scjs-2019-20---questionnaire/scjs-2019-20---questionnaire/govscot%3Adocument/SCJS%2B2019_20%2B-%2BQuestionnaire.pdf)
+
+A short list of topical policy documents relating to policing in Scotland:
 - [Joint Strategy for Policing 2023-26](https://www.spa.police.uk/spa-media/m3odwrfe/item-9-design-version-joint-strategy-for-policing-2023-26.pdf)
 - [Scottish Police Authority Corporate Strategy](https://www.spa.police.uk/spa-media/piyfodtz/item-8-spa-corporate-strategy.pdf)
 - [Violence Against Women and Girls Strategy](https://www.scotland.police.uk/spa-media/ofufdhff/violence-against-women-girls-strategy-v4.pdf)
