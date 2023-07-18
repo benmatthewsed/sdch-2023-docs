@@ -21,7 +21,7 @@ Registered participants will be able to access the harmonized SCJS dataset used 
 - You can find the link to the Teams meeting for the Hackathon here: **[link will be added here on 24 July]**
 
 ## Communicating
-- Given that we are a hybrid Hackathon, we have set up a Slack site where participants and organisers can message each other. Ben will send an invitation to join the Slack site on Monday 24 July using the email address you provided for the UKDS sign-up.
+- Given that we are a hybrid Hackathon, we have set up a [Slack](https://slack.com/intl/en-gb/features) site where participants and organisers can message each other. Ben will send an invitation to join the Slack site on Monday 24 July using the email address you provided for the UKDS sign-up.
 - The Slack site can also be used to share files/code between team members.
 
 
