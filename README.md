@@ -28,6 +28,8 @@ Registered participants will be able to access the harmonized SCJS dataset used 
 ## Code of Conduct
 - By participating in this Hackathon you are agreeing to abide by our [Code of conduct](https://github.com/benmatthewsed/sdch-2023-docs/blob/main/code_of_conduct.md). Please take a minute to familiarise yourself with this.
   
+## What do I need to bring?
+- If you are attending in-person please **bring along a laptop** which has any software that you want to use during the Hackathon. Please also bring along a set of headphones - these may be useful if collaborating with a participant/s attending online.
 
 ## Pre-Reading
 
