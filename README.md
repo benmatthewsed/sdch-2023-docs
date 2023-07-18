@@ -6,7 +6,7 @@
 2. Confirm the email address you used for registration via [this Form](https://forms.office.com/e/i1cx5L5cKN). We will also use this email address to grant you access to the datasets used for the Hackathon and to the Slack site.
 3. Ben will then add you to the Scottish Crime Data Hackathon UKDS Project. If you have any problems signing up, please to email Ben (ben.matthews@stir.ac.uk).
 
-Please complete this registration *before* the Hackathon starts on July 25.
+Please complete this registration **by 12:00 on Monday 24 July**.
 
 ## Schedule
 - You can find the [schedule for the Hackathon here](https://github.com/benmatthewsed/sdch-2023-docs/blob/main/scdh_schedule.md).
