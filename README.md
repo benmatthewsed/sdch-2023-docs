@@ -41,12 +41,15 @@ About the [Scottish Crime and Justice Survey](https://www.gov.scot/collections/s
 - [Scottish Crime and Justice Survey 2019/20: Technical Report](https://www.gov.scot/binaries/content/documents/govscot/publications/statistics/2021/02/scottish-crime-and-justice-survey-2019-20-supplementary-documents/documents/scjs-2019-20---technical-report/scjs-2019-20---technical-report/govscot%3Adocument/2019_20%2BSCJS%2B-%2BTechnical%2BReport2.pdf). This provides a lot of technical detail about the SCJS.
 - [Scottish Crime and Justice Survey 2019/20: Questionnaire and User Notes](https://www.gov.scot/binaries/content/documents/govscot/publications/statistics/2021/02/scottish-crime-and-justice-survey-2019-20-supplementary-documents/documents/scjs-2019-20---questionnaire/scjs-2019-20---questionnaire/govscot%3Adocument/SCJS%2B2019_20%2B-%2BQuestionnaire.pdf). This provides the most granular details about the questions in SCJS, including how different variables are coded and suchlike.
 
+Scottish Government recently published an evidence review of [Ethnicity in the justice system](https://www.gov.scot/publications/ethnicity-justice-system/) which draws on analysis of the linked SCJS, similar to the dataset that we will be analysing in the Hackathon.
+
 A short list of topical policy documents relating to policing in Scotland:
 - [Joint Strategy for Policing 2023-26](https://www.spa.police.uk/spa-media/m3odwrfe/item-9-design-version-joint-strategy-for-policing-2023-26.pdf)
 - [Scottish Police Authority Corporate Strategy](https://www.spa.police.uk/spa-media/piyfodtz/item-8-spa-corporate-strategy.pdf)
 - [Violence Against Women and Girls Strategy](https://www.scotland.police.uk/spa-media/ofufdhff/violence-against-women-girls-strategy-v4.pdf)
 - [Cybercrime Strategy](https://www.scotland.police.uk/spa-media/msbpuuud/cyber-strategy.pdf)
 - [Public Contact and Engagement Strategy](https://www.scotland.police.uk/spa-media/qbyfwwyu/public-contact-and-engagement-strategy.pdf)
+
 
 
 ## Finding information about SCJS
