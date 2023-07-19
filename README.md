@@ -51,4 +51,6 @@ A short list of topical policy documents relating to policing in Scotland:
 
 ## Finding information about SCJS
 
-You can find all the Questionnaires, Technical Reports and User Guides for the SCJS at the [Scottish Government SCJS collection](https://www.gov.scot/collections/scottish-crime-and-justice-survey/). This is arranged survey sweep. Questionnaires, Technical Reports and User Guides for sweeps from 2016-17 onwards are listed under Supplementary Documents for each year. For surveys prior to 2016/17 all the documentation is hosted on this page at the [NRS National Web Archive](https://webarchive.nrscotland.gov.uk/20200117001347/https://www2.gov.scot/Topics/Statistics/Browse/Crime-Justice/crime-and-justice-survey/publications).
+You can find all the Questionnaires, Technical Reports and User Guides for the SCJS at the [Scottish Government SCJS collection](https://www.gov.scot/collections/scottish-crime-and-justice-survey/). 
+
+Questionnaires, Technical Reports and User Guides for sweeps from 2016-17 onwards are listed under Supplementary Documents for each year. For surveys prior to 2016/17 all the documentation is hosted on the linked page at the [NRS National Web Archive](https://webarchive.nrscotland.gov.uk/20200117001347/https://www2.gov.scot/Topics/Statistics/Browse/Crime-Justice/crime-and-justice-survey/publications).
