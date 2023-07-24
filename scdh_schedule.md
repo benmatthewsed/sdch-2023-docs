@@ -11,6 +11,8 @@ Centre, 5 Roxburgh Pl, Edinburgh EH8 9SU](https://www.ed.ac.uk/files/atoms/files
 
 [Getting to the University of Edinburgh](https://www.ed.ac.uk/maps/getting-here)
 
+[Getting to the room](https://github.com/benmatthewsed/sdch-2023-docs/blob/main/getting_to_the_room.md)
+
 - 09:30 – Welcome and registration
 - 10:00 – Icebreaker and Hackathon introduction
 - 10:30 – Presentations: The how and why of the SCJS
