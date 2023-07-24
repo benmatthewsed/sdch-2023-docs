@@ -7,7 +7,7 @@ Ben Matthews
 
 LLTC_2.14 - Teaching Studio, [Lister Learning and Teaching
 Centre](https://www.ed.ac.uk/files/atoms/files/lister_learning_teaching_centre.pdf)
-\| online
+\| [Online via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGFjZmEwMmMtN2QyMy00MGQzLThkMmMtZDE4MmJiYWQwZjRl%40thread.v2/0?context=%7b%22Tid%22%3a%224e8d09f7-cc79-4ccb-9149-a4238dd17422%22%2c%22Oid%22%3a%22377ce8b0-c373-4490-aa17-52b4a43eb528%22%7d)
 
 - 09:30 – Welcome and registration
 - 10:00 – Icebreaker and Hackathon introduction
@@ -38,7 +38,7 @@ Centre](https://www.ed.ac.uk/files/atoms/files/lister_learning_teaching_centre.p
 
 LLTC_2.14 - Teaching Studio, [Lister Learning and Teaching
 Centre](https://www.ed.ac.uk/files/atoms/files/lister_learning_teaching_centre.pdf)
-\| online
+\| [Online via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGFjZmEwMmMtN2QyMy00MGQzLThkMmMtZDE4MmJiYWQwZjRl%40thread.v2/0?context=%7b%22Tid%22%3a%224e8d09f7-cc79-4ccb-9149-a4238dd17422%22%2c%22Oid%22%3a%22377ce8b0-c373-4490-aa17-52b4a43eb528%22%7d)
 
 - 09:30 – Review and plan
 - 10:00 – Analysis
@@ -52,7 +52,7 @@ Centre](https://www.ed.ac.uk/files/atoms/files/lister_learning_teaching_centre.p
 
 # Day Three: Writing Day
 
-University of Stirling, Campus Central (CC.04) \| online
+University of Stirling, Campus Central (CC.04) \| [Online via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGFjZmEwMmMtN2QyMy00MGQzLThkMmMtZDE4MmJiYWQwZjRl%40thread.v2/0?context=%7b%22Tid%22%3a%224e8d09f7-cc79-4ccb-9149-a4238dd17422%22%2c%22Oid%22%3a%22377ce8b0-c373-4490-aa17-52b4a43eb528%22%7d)
 
 - 09:30 – Writing retreat activities
 - 10:00 – Writing
