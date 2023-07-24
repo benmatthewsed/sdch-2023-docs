@@ -6,7 +6,7 @@ Ben Matthews
 # Day One: Getting Started
 
 LLTC_2.14 - Teaching Studio, [Lister Learning and Teaching
-Centre](https://www.ed.ac.uk/files/atoms/files/lister_learning_teaching_centre.pdf)
+Centre, 5 Roxburgh Pl, Edinburgh EH8 9SU](https://www.ed.ac.uk/files/atoms/files/lister_learning_teaching_centre.pdf)
 \| [Online via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGFjZmEwMmMtN2QyMy00MGQzLThkMmMtZDE4MmJiYWQwZjRl%40thread.v2/0?context=%7b%22Tid%22%3a%224e8d09f7-cc79-4ccb-9149-a4238dd17422%22%2c%22Oid%22%3a%22377ce8b0-c373-4490-aa17-52b4a43eb528%22%7d)
 
 - 09:30 – Welcome and registration
@@ -37,7 +37,7 @@ Centre](https://www.ed.ac.uk/files/atoms/files/lister_learning_teaching_centre.p
 # Day Two: Data Day
 
 LLTC_2.14 - Teaching Studio, [Lister Learning and Teaching
-Centre](https://www.ed.ac.uk/files/atoms/files/lister_learning_teaching_centre.pdf)
+Centre, 5 Roxburgh Pl, Edinburgh EH8 9SU](https://www.ed.ac.uk/files/atoms/files/lister_learning_teaching_centre.pdf)
 \| [Online via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGFjZmEwMmMtN2QyMy00MGQzLThkMmMtZDE4MmJiYWQwZjRl%40thread.v2/0?context=%7b%22Tid%22%3a%224e8d09f7-cc79-4ccb-9149-a4238dd17422%22%2c%22Oid%22%3a%22377ce8b0-c373-4490-aa17-52b4a43eb528%22%7d)
 
 - 09:30 – Review and plan
