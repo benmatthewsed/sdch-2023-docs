@@ -22,8 +22,7 @@ SCJS - if you are feeling intrepid you are welcome to spin up your own
 harmonized dataset from the individual sweeps and include any variables you like, but we don’t recommend
 this.
 
-You can access the harmonized versions of the datasets via this link:
-\[Ben add link\]
+You can access the harmonized versions of the datasets [via this link](https://stir-my.sharepoint.com/:f:/r/personal/bm47_stir_ac_uk/Documents/research/scottish_crime_data_hackathon/hackathon_data?csf=1&web=1&e=nwmVcs)
 
 This link is restricted and will only work with the email address that
 you used to register for the UKDS, and will only be activated once you
