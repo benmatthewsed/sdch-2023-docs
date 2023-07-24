@@ -5,9 +5,11 @@ Ben Matthews
 
 # Day One: Getting Started
 
-LLTC_2.14 - Teaching Studio, [Lister Learning and Teaching
+2.14 - Teaching Studio, [Lister Learning and Teaching
 Centre, 5 Roxburgh Pl, Edinburgh EH8 9SU](https://www.ed.ac.uk/files/atoms/files/lister_learning_teaching_centre.pdf)
 \| [Online via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGFjZmEwMmMtN2QyMy00MGQzLThkMmMtZDE4MmJiYWQwZjRl%40thread.v2/0?context=%7b%22Tid%22%3a%224e8d09f7-cc79-4ccb-9149-a4238dd17422%22%2c%22Oid%22%3a%22377ce8b0-c373-4490-aa17-52b4a43eb528%22%7d)
+
+[Getting to the University of Edinburgh](https://www.ed.ac.uk/maps/getting-here)
 
 - 09:30 – Welcome and registration
 - 10:00 – Icebreaker and Hackathon introduction
@@ -36,9 +38,11 @@ Centre, 5 Roxburgh Pl, Edinburgh EH8 9SU](https://www.ed.ac.uk/files/atoms/files
 
 # Day Two: Data Day
 
-LLTC_2.14 - Teaching Studio, [Lister Learning and Teaching
+2.14 - Teaching Studio, [Lister Learning and Teaching
 Centre, 5 Roxburgh Pl, Edinburgh EH8 9SU](https://www.ed.ac.uk/files/atoms/files/lister_learning_teaching_centre.pdf)
 \| [Online via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGFjZmEwMmMtN2QyMy00MGQzLThkMmMtZDE4MmJiYWQwZjRl%40thread.v2/0?context=%7b%22Tid%22%3a%224e8d09f7-cc79-4ccb-9149-a4238dd17422%22%2c%22Oid%22%3a%22377ce8b0-c373-4490-aa17-52b4a43eb528%22%7d)
+
+[Getting to the University of Edinburgh](https://www.ed.ac.uk/maps/getting-here)
 
 - 09:30 – Review and plan
 - 10:00 – Analysis
@@ -53,6 +57,8 @@ Centre, 5 Roxburgh Pl, Edinburgh EH8 9SU](https://www.ed.ac.uk/files/atoms/files
 # Day Three: Writing Day
 
 University of Stirling, Room CC.04, [Campus Central, Stirling FK9 4LA](https://www.stir.ac.uk/media/stirling/global-assets/documents/university-of-stirling-campus-map.pdf) \| [Online via Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGFjZmEwMmMtN2QyMy00MGQzLThkMmMtZDE4MmJiYWQwZjRl%40thread.v2/0?context=%7b%22Tid%22%3a%224e8d09f7-cc79-4ccb-9149-a4238dd17422%22%2c%22Oid%22%3a%22377ce8b0-c373-4490-aa17-52b4a43eb528%22%7d)
+
+[Getting to University of Stirling](https://www.stir.ac.uk/about/getting-here/)
 
 - 09:30 – Writing retreat activities
 - 10:00 – Writing
