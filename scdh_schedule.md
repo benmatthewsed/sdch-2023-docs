@@ -18,12 +18,11 @@ Centre, 5 Roxburgh Pl, Edinburgh EH8 9SU](https://www.ed.ac.uk/files/atoms/files
     the SCJS
   - Ipsos/JAS: The how of the SCJS
   - JAS: The analysis datasets
-- 11:15 – Break
-- 11:30 – Presentations: Justice stakeholders and the SCJS
+- 11:20 – Break
+- 11:35 – Presentations: Justice stakeholders and the SCJS
   - Scottish Police Authority
   - Community Justice Scotland
-  - Scottish Government - Violence Against Women and Girls
-- 12:15 – Team discussion – initial project thoughts
+- 12:10 – Team discussion – initial project thoughts
 - 13:00 - Lunch
 - 13:45 – ‘Reset’ (unstructured time: return to work on Hackathon
   project, or free time to stretch the legs etc.)
