@@ -50,7 +50,10 @@ A short list of topical policy documents relating to policing in Scotland:
 - [Cybercrime Strategy](https://www.scotland.police.uk/spa-media/msbpuuud/cyber-strategy.pdf)
 - [Public Contact and Engagement Strategy](https://www.scotland.police.uk/spa-media/qbyfwwyu/public-contact-and-engagement-strategy.pdf)
 
-
+And another short list of policy documents relating to community justice in Scotland:
+- [Community Justice Performance Framework](https://www.gov.scot/publications/community-justice-performance-framework/)
+- [The Vision for Justice in Scotland](https://www.gov.scot/publications/vision-justice-scotland/)
+- [National Strategy for Community Justice](https://www.gov.scot/publications/national-strategy-community-justice-2/)
 
 ## Finding information about SCJS
 
