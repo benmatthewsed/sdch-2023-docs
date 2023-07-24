@@ -13,7 +13,7 @@ Currently, there are large red ‘road closed’ barriers just outside the build
 
 Enter through the revolving doors at the front of the building. 2.14 is on the second floor of the building. Stairs can be found to the right hand side of the reception desk. A lift is available immediately to the left as you enter the building. If using the lift, press the ‘2’ button on the left hand column of buttons (this will open the doors in front of you as you enter the lift).
 
-There will be ‘SCCJR Hackathon’ signs up on level 2 to guide you J
+There will be ‘SCCJR Hackathon’ signs up on level 2 to guide you 😊
 
 There is no need to sign in at the reception desk.
 
