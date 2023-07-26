@@ -59,8 +59,8 @@ University of Stirling, Room CC.04, [Campus Central, Stirling FK9 4LA](https://w
 
 [Getting to University of Stirling](https://www.stir.ac.uk/about/getting-here/)
 
-- 09:30 – Writing retreat activities
-- 10:00 – Writing
+- 10:00 – Welcome and writing retreat activities
+- 10:30 - Writing
 - 11:15 – Break
 - 11:30 – Writing
 - 13:00 - Lunch
